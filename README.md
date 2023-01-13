@@ -1,9 +1,9 @@
 # daily_news_app
 
-## Quotter ( Quote + Flutter )
+## Daily News ( News + Flutter )
 Flutter app that displays random motivational quotes with a nice design and the
 picture ( if possible otherwise show a local image ) of the person who said it, with the possibility
-to copy the quote to share it with all your friends. 
+to copy the news to share it with all your friends. 
 
 ## Android Screenshots
 
