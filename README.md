@@ -10,8 +10,8 @@ to copy the quote to share it with all your friends.
 |   |   |   |   |   |
 |---|---|---|---|---|
 | ![news1](https://user-images.githubusercontent.com/102571616/212337134-868ae6fa-8ecf-4008-8c65-a09b905ff899.png)
- | ![S1](img/S2.jpg) | ![S1](img/S3.jpg) | ![S1](img/S5.jpg) | ![S1](img/S6.jpg) |
-| ![S1](img/S7.jpg) | ![S1](img/S8.jpg) | ![S1](img/S9.jpg) | ![S1](img/S10.jpg) | ![S1](img/S11.jpg) |
+| ![news2](https://user-images.githubusercontent.com/102571616/212337409-d155c0ac-dad4-447a-a048-df16e92a0c2f.png)
+|![news3](https://user-images.githubusercontent.com/102571616/212337444-c43776f6-2080-49d3-a979-4414504151b4.png)
 |   |   |   |   |   |
 
 
