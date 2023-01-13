@@ -22,4 +22,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 >https://github.com/morvinvaghasiya
 ## Visitors Count
 
-<img align="left" src = "https://github.com/morvinvaghasiya/daily_news_app/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/daily_news_app/count.svg" alt ="Loading">
