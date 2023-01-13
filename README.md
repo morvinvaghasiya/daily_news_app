@@ -1,9 +1,5 @@
 # daily_news_app
 
-![](img/Flutter.png)
-
-E-Commerce app is a design implementaion of [E-commerce App](https://dribbble.com/shots/10446127-E-commerce-App-Exploration/attachments/2283107?mode=media) designed by [Imran](https://dribbble.com/Saif_Uddin_Imran)
-
 ## Quotter ( Quote + Flutter )
 Flutter app that displays random motivational quotes with a nice design and the
 picture ( if possible otherwise show a local image ) of the person who said it, with the possibility
